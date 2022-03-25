@@ -1,0 +1,175 @@
+.footer-contact .wpcf7-response-output{
+
+	color: #ffffff;
+}
+
+.current-menu-item a{
+	color:#f58020 !important;
+}
+
+.percent:after {
+    content: "%";
+    display: inline-block;
+  }
+
+.plus:after {
+    content: "+";
+    display: inline-block;
+  } 
+
+ .dollar:before {
+    content: "$";
+    display: inline-block;
+  } 
+  
+.m:after {
+content: "M";
+display: inline-block;
+}  
+
+.wpcf7-spinner {
+    visibility: hidden;
+    display: inline-block;
+    background-color: #23282d;
+    opacity: 0.75;
+    width: 24px;
+    height: 24px;
+    border: none;
+    border-radius: 100%;
+    padding: 0;
+    margin: 0 24px;
+    position: relative;
+    position: absolute;
+    margin-left: -213px;
+    margin-top: 55px;
+}
+.Team.pt-5 .team-box {
+    height: 90%;
+}
+.Team.pt-5 .team-box .team-btn {
+    transform: translateY(0px);
+    opacity: 0;
+    transition: ease-in-out .3s;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.Team.pt-5 .team-box:hover .team-btn {
+    transform: translateY(0);
+    opacity: 1;
+    display: block;
+    bottom: -27px;
+}
+.customize-support nav{
+    top: 32px;
+}
+
+._form-branding{
+
+    display: none !important;
+}
+
+._field-wrapper .fullname .email {
+  border-style: solid;
+    border-width: 2px;
+    border-color: rgb(48, 48, 48);
+    border-radius: 2px;
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 18px;
+    font-family: "Poppins";
+    color: rgb(48, 48, 48);
+    width: 100%;
+    padding: 11px 18px;
+    outline: none;
+}
+
+._field-wrapper input::placeholder {
+
+    color: rgb(77, 77, 77);
+   
+}
+footer input{
+    border-style: solid !important;
+    border-width: 2px !important;
+    border-color: rgb(48, 48, 48) !important;
+    border-radius: 2px !important;
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 18px !important;
+    font-family: "Poppins" !important;
+    color: rgb(48, 48, 48);
+    width: 100%;
+    padding: 11px 18px !important;
+    outline: none !important;
+}
+footer #_form_1_submit._submit{
+    -webkit-appearance: none;
+    cursor: pointer;
+    text-align: center;
+    background: #f58020 ;
+    border: 0 !important;
+    color: #fff !important;
+    padding: 0px 15px !important;
+    font-size: 18px !important;
+    font-family: "Poppins" !important;
+    font-weight: 600 !important;
+    text-transform: uppercase;
+    line-height: 54px;
+    text-align: center;
+    height: 54px;
+    width: 100%;
+}
+#_form_62332627F03C8_._inline-style {
+    width: 100%;
+    display: inline-block;
+    padding: 0;
+}
+#_form_62332627F03C8_ ._inline-style input[type="text"] {
+    width: 100%;
+}
+._form-content ._form_element._inline-style {
+    float: left;
+ 
+}
+
+._field-wrapper input[type="text"]{
+    width: 100% !important;
+}
+
+._form{
+    width: 100% !important;
+    padding:0 !important;
+    margin: 0 !important;
+}
+
+.workshop-container form{
+     width: 100% !important;
+}
+
+._x76746144{
+     width: 25% !important;
+}
+
+._x81276183{
+    width: 50% !important;
+}
+
+._button-wrapper{
+     margin: 0 0 0 20px !important;
+     width: 19% !important;
+}
+
+._form-label{
+    display:none !important;
+}
+
+.content-area{
+    min-height:295px;
+}
+
+.Our-portfolio .section-title {
+    font-size: 28px;
+    margin-top: 5px;
+}
+
+
